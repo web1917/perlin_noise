@@ -1,0 +1,15 @@
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\bin\Debug\net7.0\Perlin_noise.exe
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\bin\Debug\net7.0\Perlin_noise.deps.json
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\bin\Debug\net7.0\Perlin_noise.runtimeconfig.json
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\bin\Debug\net7.0\Perlin_noise.dll
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\bin\Debug\net7.0\Perlin_noise.pdb
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\obj\Debug\net7.0\Perlin_noise.csproj.AssemblyReference.cache
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\obj\Debug\net7.0\Perlin_noise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\obj\Debug\net7.0\Perlin_noise.AssemblyInfoInputs.cache
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\obj\Debug\net7.0\Perlin_noise.AssemblyInfo.cs
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\obj\Debug\net7.0\Perlin_noise.csproj.CoreCompileInputs.cache
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\obj\Debug\net7.0\Perlin_noise.dll
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\obj\Debug\net7.0\refint\Perlin_noise.dll
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\obj\Debug\net7.0\Perlin_noise.pdb
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\obj\Debug\net7.0\Perlin_noise.genruntimeconfig.cache
+C:\Users\zeladmin\source\repos\Perlin_noise\Perlin_noise\obj\Debug\net7.0\ref\Perlin_noise.dll
