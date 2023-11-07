@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zeladmin\\source\\repos\\Perlin_noise\\Perlin_noise\\Perlin_noise.csproj": {}
+    "D:\\Software\\perlin_noise\\Perlin_noise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zeladmin\\source\\repos\\Perlin_noise\\Perlin_noise\\Perlin_noise.csproj": {
+    "D:\\Software\\perlin_noise\\Perlin_noise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zeladmin\\source\\repos\\Perlin_noise\\Perlin_noise\\Perlin_noise.csproj",
+        "projectUniqueName": "D:\\Software\\perlin_noise\\Perlin_noise.csproj",
         "projectName": "Perlin_noise",
-        "projectPath": "C:\\Users\\zeladmin\\source\\repos\\Perlin_noise\\Perlin_noise\\Perlin_noise.csproj",
-        "packagesPath": "C:\\Users\\zeladmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zeladmin\\source\\repos\\Perlin_noise\\Perlin_noise\\obj\\",
+        "projectPath": "D:\\Software\\perlin_noise\\Perlin_noise.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Software\\perlin_noise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zeladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
