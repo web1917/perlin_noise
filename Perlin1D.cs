@@ -13,7 +13,6 @@ namespace Perlin_noise
         public float[] perlin()
         {
             Random rnd = new Random();
-            double rnd_numeric = 0;
             List<float> perlin1d = new List<float>();
             List<float> list = new List<float>();
             float numeric = 0;

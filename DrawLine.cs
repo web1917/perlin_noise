@@ -17,17 +17,13 @@ namespace Perlin_noise
             int y = 0;
             while (true)
             {
-                //Console.Clear();
                 for (int i = 0; i < max_rows; i++)
                 {
-
                     for (y = cont; y < f.Length; y++)
                     {
                         if (cont <= f.Length - 64)
-
                             if (rows <= 64)
                             {
-
                                 if ((f[y] * 15 >= i) && (f[y] * 15 <= i + 1))
                                 {
                                     rows++;
@@ -46,15 +42,12 @@ namespace Perlin_noise
                 }
                 Console.SetCursorPosition(0, 0);
                 Thread.Sleep(0);
-
                 rows = 0;
-
                 if (cont >= f.Length)
                     cont = 0;
                 else
                     cont += 1;
             }
-
         }
         int max(float[] f)
         {
